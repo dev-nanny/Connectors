@@ -1,0 +1,20 @@
+{
+    "name": "dev-nanny/connectors",
+    "description": "Composer Meta Package for various Dev-Nanny Connectors",
+    "keywords": ["quality-assurance", "development", "dev-nanny", "meta-package"],
+    "license": "GPL-3.0+",
+    "type": "meta-package",
+    "authors": [
+        {
+            "name": "Potherca",
+            "homepage": "http://pother.ca/",
+            "email": "potherca@gmail.com",
+            "role": "Kick-ass Web Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "dev-nanny/connector-base": "~0",
+        "dev-nanny/connector-php-lint": "~0"
+    }
+}
