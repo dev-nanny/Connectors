@@ -15,6 +15,6 @@
     "minimum-stability": "stable",
     "require": {
         "dev-nanny/connector-base": "~0.1",
-        "dev-nanny/connector-php-lint": "~0"
+        "dev-nanny/connector-php-lint": "~0.1"
     }
 }
